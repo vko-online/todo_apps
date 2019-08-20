@@ -1,7 +1,7 @@
 Because naming is hard
 
 | Symbol | Element | Origin of name | 
- | ------- | ------- | ------- |		
+ | :---: | :---: | ------- |		
  | H | Hydrogen  | 	Greek elements hydro- and -gen, meaning 'water-forming'
  | He | Helium   | 	Greek hḗlios, 'sun'
  | Li | Lithium  | 	Greek líthos, 'stone'
