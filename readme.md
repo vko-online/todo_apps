@@ -120,3 +120,6 @@ Because naming is hard
  | Lv | Livermorium  | 	Lawrence Livermore National Laboratory in Livermore, California, which collaborated with JINR on its synthesis
  | Ts | Tennessine   | 	Tennessee, United States (where Oak Ridge National Laboratory is located)
  | Og | Oganesson  | 	Yuri Oganessian, Russian physicist
+
+Logo - Generate, ex: https://www.brandcrowd.com/maker/logos
+Color Schema - Generate, ex: https://coolors.co
