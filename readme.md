@@ -121,5 +121,5 @@ Because naming is hard
  | Ts | Tennessine   | 	Tennessee, United States (where Oak Ridge National Laboratory is located)
  | Og | Oganesson  | 	Yuri Oganessian, Russian physicist
 
-Logo - Generate, ex: https://www.brandcrowd.com/maker/logos
+Logo - Generate, ex: https://www.brandcrowd.com/maker/logos<br>
 Color Schema - Generate, ex: https://coolors.co
